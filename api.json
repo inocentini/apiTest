@@ -1,0 +1,11 @@
+{
+  "Element":
+  {
+    "Name" : "Name1",
+    "Items": [
+      "item1",
+      "item2",
+      "item3"
+    ]
+  }
+}
