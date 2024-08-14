@@ -1,21 +1,29 @@
 {
-  [
-    "Element":
+  "parentItems": [
     {
-      "Name" : "Name1",
-      "Items": [
-        "item1",
-        "item2",
-        "item3"
+      "Name": "Item 1",
+      "Details": [
+        {
+          "DetailName": "Detail 1",
+          "DetailValue": "Value 1"
+        },
+        {
+          "DetailName": "Detail 2",
+          "DetailValue": "Value 2"
+        }
       ]
     },
-  "Element2":
     {
-      "Name" : "Name2",
-      "Items": [
-        "item4",
-        "item5",
-        "item6"
+      "Name": "Item 2",
+      "Details": [
+        {
+          "DetailName": "Detail 3",
+          "DetailValue": "Value 3"
+        },
+        {
+          "DetailName": "Detail 4",
+          "DetailValue": "Value 4"
+        }
       ]
     }
   ]
