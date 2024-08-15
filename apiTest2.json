@@ -1,12 +1,10 @@
 {
-  [
-    {
-      "Name1": "Item 1",
-      "Detail1":"Value1"
-    },
-{
-  "Name2": "Item 2",
-  "Detail2":"Value2"
-}
-  ]
+  {
+    "Name1": "Item 1",
+    "Detail1":"Value1"
+  },
+  {
+    "Name2": "Item 2",
+    "Detail2":"Value2"
+  }
 }
